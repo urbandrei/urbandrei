@@ -1,6 +1,6 @@
 # Software Developer | Seeking Opportunities
 
-👋 Hey there! I'm Andrei Roman, a passionate and creative software developer with a strong knack for turning ideas into elegant, functional, and user-friendly applications. I'm on a mission to leverage my skills and experience to contribute to exciting projects and teams.
+👋 Hey there! I'm Andrei Roman, a Computer Science and Mathematics double-major with over 5 years of adept software development experience and a robust quantitative skill set, seeking a challenging full-time development role.
 
 ## About Me
 - 🎓 Computer Science and Mathematics Graduate | The Ohio State University
@@ -14,8 +14,8 @@
 - 💻 Platforms: Windows and Linux
 
 ## What I'm Looking For
-- 🌱 I'm excited to join a dynamic team where I can contribute my coding expertise and collaborate on challenging projects.
-- 🚀 Open to both full-time positions and exciting freelance opportunities.
+- 🌱 I'm excited to join a dynamic team where I can collaborate on challenging projects.
+- 🚀 Open to both full-time positions and freelance opportunities.
 - 💼 Seeking a role that encourages innovation, growth, and continuous learning.
 - [Here is a link to my resume!](resume.pdf)
 
