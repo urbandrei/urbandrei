@@ -17,7 +17,7 @@
 - 🌱 I'm excited to join a dynamic team where I can collaborate on challenging projects.
 - 🚀 Open to both full-time positions and freelance opportunities.
 - 💼 Seeking a role that encourages innovation, growth, and continuous learning.
-- [Here is a link to my resume!](resume.pdf)
+- [Here is a link to my resume!](Resume.pdf)
 
 ## Let's Connect
 - 📧 Feel free to reach out to me at andrei.roman.personal@gmail.com!
