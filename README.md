@@ -8,7 +8,7 @@
 - 🚀 Continuous Learner | Tech Enthusiast
 
 ## Tech Stack
-- 🔧 Languages: JavaScript, Python, Java, C#, C/C++ and Lua
+- 🔧 Languages: JavaScript, Python, Java, C# and C/C++
 - 📦 Frameworks: Ruby on Rails, React and PyTorch
 - 🧰 Tools: GitHub, Visual Studio Code, VIM, Docker, npm, pip and SQLite
 - 💻 Platforms: Windows and Linux
