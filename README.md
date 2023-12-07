@@ -8,16 +8,17 @@
 - 🚀 Continuous Learner | Tech Enthusiast
 
 ## Tech Stack
-- 🔧 Languages: JavaScript, Python, Java, C# and C/C++
-- 📦 Frameworks: Ruby on Rails, React and PyTorch
-- 🧰 Tools: GitHub, Visual Studio Code, VIM, Docker, npm, pip and SQLite
+- 🔧 Languages: JavaScript, TypeScript, HTML, CSS, Python
+- 📦 Frameworks: ReactJS, AngularJS, NodeJS
+- 📚 Libraries: Express, MongoDB, Bootstrap
+- 🧰 Tools: GIT/GitHub, Visual Studio Code, VIM
 - 💻 Platforms: Windows and Linux
 
 ## What I'm Looking For
 - 🌱 I'm excited to join a dynamic team where I can collaborate on challenging projects.
 - 🚀 Open to both full-time positions and freelance opportunities.
 - 💼 Seeking a role that encourages innovation, growth, and continuous learning.
-- [Here is a link to my resume!](Resume.pdf)
+- [Here is a link to my resume!](resume.pdf)
 
 ## Let's Connect
 - 📧 Feel free to reach out to me at andrei.roman.personal@gmail.com!
