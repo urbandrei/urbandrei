@@ -1,6 +1,6 @@
 # Software Developer | Seeking Opportunities
 
-👋 Hey there! I'm Andrei Roman, a Computer Science and Mathematics double-major with over 5 years of adept software development experience and a robust quantitative skill set, seeking a challenging full-time development role.
+👋 Hey there! I'm Andrei Roman, a Masters student in Artificial Intelligence with over 5 years of adept software development experience and a robust quantitative skill set, seeking a challenging full-time development role.
 
 ## About Me
 - 🎓 Computer Science and Mathematics Graduate | The Ohio State University
