@@ -20,7 +20,4 @@
 - 💼 Seeking a role that encourages innovation, growth, and continuous learning.
 - [Here is a link to my resume!](resume.pdf)
 
-## Let's Connect
-- 📧 Feel free to reach out to me at andrei.roman.personal@gmail.com!
-
 I'm excited to embark on new coding adventures, tackle intriguing problems, and help create exceptional software solutions. Let's build something amazing together! 💻🚀
